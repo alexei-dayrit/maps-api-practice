@@ -1,0 +1,16 @@
+   body {
+     margin: auto 0;
+     padding: 2rem;
+   }
+
+   #map {
+      color: #121212;
+      /* The height is 400 pixels */
+      height:600px;
+      /* The width is the width of the web page */
+      width: 100%;
+    }
+
+    h2 {
+      text-align: center;
+    }
